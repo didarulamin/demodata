@@ -1,6 +1,6 @@
 [
     {
-    "id": { "$oid": "615a17fafc13ae2b0100044c" },
+    "id":"615a17fafc13ae2b0100044c",
     "course_name": "The business Intelligence analyst Course 2022",
     "category": "Art & Design",
     "rating": "43",
@@ -15,7 +15,7 @@
     "course_overview": "Only a quid me old mucker squiffy tomfoolery grub cheers ruddy cor "
   },
   {
-    "id": { "$oid": "615a17fafc13ae2b0100044d" },
+    "id":"615a17fafc13ae2b0100044d",
     "course_name": "Susanna",
     "category": "␣",
     "rating": 48,
