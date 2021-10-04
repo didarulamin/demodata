@@ -5,46 +5,46 @@
     "email": "amargrem0@europa.eu",
     "gender": "Male",
     "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacger-1.jpg",
-    "profession": "designer"
+    "profession": "Designer"
   },
   {
     "id": "a53643a2-1f7d-438b-83d4-e6882e7f1e",
-    "name": "Lillian Walsh",
+    "name": "Kelly Franklin",
     "email": "amargrem0@europa.eu",
-    "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacger-1.jpg",
-    "profession": "designer"
+    "gender": "female",
+    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-2.jpg",
+    "profession": "Designer"
   },
   {
     "id": "a53643a2-1f7d-438b-83d4-e680275f1e",
-    "name": "Lillian Walsh",
+    "name": "Nicola Tesla",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacger-1.jpg",
-    "profession": "designer"
+    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-3.jpg",
+    "profession": "Marketer"
   },
   {
     "id": "a53643a2-1f7d-438b-83d4-e688275f1e",
-    "name": "Lillian Walsh",
+    "name": "Hilary Ouse",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacger-1.jpg",
-    "profession": "designer"
+    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-6.jpg",
+    "profession": "CO Founder"
   },
   {
     "id": "a53643a2-1f7d-438b-83d4-e082e75f1e",
-    "name": "Lillian Walsh",
+    "name": "Shahnewaz",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacger-1.jpg",
-    "profession": "designer"
+    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-5.jpg",
+    "profession": "CO Founder"
   },
   {
     "id": "a53643a2-1f7d-438b-83d4-8082e75f1e",
-    "name": "Lillian Walsh",
+    "name": "Walsh Ouse",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacger-1.jpg",
-    "profession": "designer"
+    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-4.jpg",
+    "profession": "Web Developer"
   }
 ]
