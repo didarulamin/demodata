@@ -4,7 +4,7 @@
     "name": "Lillian Walsh",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacger-1.jpg",
+    "img": "https://github.com/didarulamin/demodata/blob/main/img/teacger-1.jpg?raw=true",
     "profession": "Designer"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Kelly Franklin",
     "email": "amargrem0@europa.eu",
     "gender": "female",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-2.jpg",
+    "img": "https://github.com/didarulamin/demodata/blob/main/img/teacher-2.jpg?raw=true",
     "profession": "Designer"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Nicola Tesla",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-3.jpg",
+    "img": "https://github.com/didarulamin/demodata/blob/main/img/teacher-3.jpg?raw=true",
     "profession": "Marketer"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Hilary Ouse",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-6.jpg",
+    "img": "https://github.com/didarulamin/demodata/blob/main/img/teacher-4.jpg?raw=true",
     "profession": "CO Founder"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Shahnewaz",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-5.jpg",
+    "img": "https://github.com/didarulamin/demodata/blob/main/img/teacher-5.jpg?raw=true",
     "profession": "CO Founder"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Walsh Ouse",
     "email": "amargrem0@europa.eu",
     "gender": "Male",
-    "img": "https://themepure.net/template/educal/educal/assets/img/teacher/teacher-4.jpg",
+    "img": "https://github.com/didarulamin/demodata/blob/main/img/teacher-6.jpg?raw=true",
     "profession": "Web Developer"
   }
 ]
