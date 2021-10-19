@@ -1,0 +1,45 @@
+[
+  {
+    "id": "616e47e63404f608eb48103f",
+    "s_name": "Psychoanalysis",
+    "s_type": "Vip Group Therapy",
+    "pic": "https://i.ibb.co/n1Drstv/Mental-Illness-555x555.jpg",
+    "details_pic": "https://i.ibb.co/pWdZJ4p/therapy-Picture-Stock.jpg"
+  },
+  {
+    "id": "616e47e656c025b67c25e827",
+    "s_name": "NLP and Ericsson Hypnose",
+    "s_type": "Leadership Coaching, Stress Management",
+    "pic": "https://i.ibb.co/8XWC1dx/Hypnose.jpg",
+    "details_pic": "https://i.ibb.co/pWdZJ4p/therapy-Picture-Stock.jpg"
+  },
+
+  {
+    "id": "616e47e632109d99686d2f1d",
+    "s_name": "Humanistic therapy",
+    "s_type": "Family Psychology, Stress Management",
+    "pic": "https://i.ibb.co/GJMQkwQ/Humanistic.jpg",
+    "details_pic": "https://i.ibb.co/pWdZJ4p/therapy-Picture-Stock.jpg"
+  },
+  {
+    "id": "616e47e69dc4ee04468afa88",
+    "s_name": "Behavior therapy",
+    "s_type": "Couple Counselling, Family Psychology",
+    "pic": "https://i.ibb.co/7YWrCRW/Behavior.jpg",
+    "details_pic": "https://i.ibb.co/pWdZJ4p/therapy-Picture-Stock.jpg"
+  },
+  {
+    "id": "616e47e61efed49c26520d0e",
+    "s_name": "Cognitive therapy",
+    "s_type": "Couple Counselling, Therapy for Children",
+    "pic": "https://i.ibb.co/ZXwq6Qh/Cognitive.jpg",
+    "details_pic": "https://i.ibb.co/pWdZJ4p/therapy-Picture-Stock.jpg"
+  },
+  {
+    "id": "616e47e6611334a8c4ff24ee",
+    "s_name": "Online therapy ",
+    "s_type": "Ongoing support from licensed therapist",
+    "pic": "https://i.ibb.co/ng3gZHc/onlinetherapy.png",
+    "details_pic": "https://i.ibb.co/pWdZJ4p/therapy-Picture-Stock.jpg"
+  }
+]
